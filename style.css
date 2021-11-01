@@ -1,0 +1,101 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    padding-left: 5%;
+    margin-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    margin: 0 60px; 
+    padding-bottom: 500px;
+}
+h1{
+    font-size: 50px;
+    text-transform: uppercase;
+}
+h2{
+    font-size: 40px;
+}
+.name-highlighted{
+    color: goldenrod;
+}
+.button{
+    text-decoration: none;
+    padding: 8px 16px;
+    background-image: linear-gradient(lightsalmon, tomato);
+    border-radius: 5px;
+    color: white;
+    margin: 20px 0;
+}
+p{
+    color: grey;
+    padding: 10px 0; 
+}
+.working-project{
+    width: 27%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 1%;
+    text-align: center;
+}
+.project-img{
+    width: 100%;
+}
+.project-title{
+    text-align: center;
+    padding: 60px 0 40px;
+}
+.project-banner{
+    width: 100%; 
+    padding-bottom: 400px;
+    margin: 0;
+    background-color: #f3f3f3;
+    margin-bottom: 100px;
+} 
+.first-pro{
+    margin-left: 80px;
+}
+.work-inquiry{
+    width: 80%;
+    background-color: blue; 
+    margin: auto; 
+    border-radius: 25px;
+    display: inline-block;
+    padding: 80px; 
+    margin-bottom: 80px;
+}
+.work-inquiry h1{
+    width: 50%;  
+    text-align: center;
+    color: white;
+    padding: 40px;
+    margin-bottom: 0;
+    display: inline;
+}
+.work-inquiry strong{ 
+    float: right; 
+    top: 50px;   
+    margin-top: 20px;
+}
+.connected-area{
+
+    margin: auto;
+    text-align: center;
+}
+.connected-area img{
+    width: 50px;
+    margin: 5px;
+    padding: 5px;
+}
+footer{
+    text-align: center;
+    color:#8d8c8c;
+    font-size: 20px;
+}
